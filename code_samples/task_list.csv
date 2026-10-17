@@ -1,0 +1,6 @@
+task_id,task_description,ai_file_done,human_file_done,notes
+task01,Reverse a string,no,no,
+task02,Check if a string is a palindrome,no,no,
+task03,Find the largest number in a list,no,no,
+task04,Check if a number is prime,no,no,
+task05,Count word frequency in a sentence,no,no,

@@ -1,0 +1,12 @@
+# PDFs and temp extraction files — keep the repo code-only
+*.pdf
+_extracted.txt
+_codeaismells.txt
+
+# Python / OS cruft
+__pycache__/
+*.pyc
+.DS_Store
+
+# generated chart images (optional: keep if you want them in the repo)
+figures/*.png
